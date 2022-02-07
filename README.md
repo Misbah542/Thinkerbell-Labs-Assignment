@@ -1,6 +1,6 @@
 # Thinkerbell-Labs-Assignment
 # Spam_Classifier.py is the main code file 
-# Spam_Classifier.pdf is small description about the methodolgy and about the assignment
+# Spam_Classifier.pdf is a small description about the methodolgy and about the assignment
 
 Thanks and Regards 
 Misbah ul Haque
